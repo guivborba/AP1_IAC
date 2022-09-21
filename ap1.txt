@@ -12,6 +12,10 @@
 
 	Ad mauris nisl cras ad lobortis mollis scelerisque venenatis, hendrerit iaculis quis risus hac ligula mi fringilla litora, quam cras mi varius pulvinar elit nam. varius purus tempus ligula suscipit dolor cubilia leo lacus, vivamus taciti tellus per aliquam sem egestas dictum, interdum malesuada libero urna commodo lacinia elementum. aenean bibendum purus ultrices tristique orci habitasse orci nibh ornare praesent suscipit, faucibus mauris netus laoreet placerat convallis torquent proin aptent. potenti diam urna fames porta eleifend tristique mollis metus diam semper porta senectus tincidunt, lacinia ut vestibulum ut commodo cursus mattis nisl nulla convallis hendrerit. 
 
+	#ALTERAÇÃO LINHA 15#
+
+	#ALTERAÇÃO LINHA 17#
+	
 	Platea sagittis non proin lacinia at donec in mollis, ornare sapien condimentum sociosqu luctus imperdiet sagittis quam cubilia, vulputate feugiat senectus mauris dictumst lorem aliquet. duis ornare malesuada platea cursus himenaeos morbi curae, ultrices taciti varius amet dolor posuere, proin suscipit auctor malesuada quam viverra. metus sollicitudin ante ipsum aliquet neque sed cras augue, dictumst viverra donec rhoncus porttitor inceptos metus, pretium luctus cubilia tortor vestibulum quam posuere. ullamcorper sollicitudin faucibus nibh pharetra mi duis ligula habitasse, porta senectus lacinia sapien tortor curabitur aptent malesuada, himenaeos erat scelerisque vehicula aliquam rutrum potenti. 
 
 	Inceptos a aliquet imperdiet euismod consequat etiam sem fermentum, vivamus massa nunc etiam aliquet torquent et, malesuada molestie ullamcorper adipiscing et vitae lacus. posuere pellentesque sit integer mollis at consectetur aliquam in aliquam vitae habitasse, massa diam interdum porta lorem faucibus laoreet gravida ultricies nibh. arcu ornare tincidunt nisi nisl habitant erat eleifend, inceptos ac curabitur neque eros porttitor donec, commodo sollicitudin etiam eros feugiat nisi. et aliquam platea conubia diam adipiscing nunc elementum suscipit ultricies et, ligula justo auctor aliquam curabitur non urna mollis cras faucibus, sed leo accumsan ut adipiscing ad sapien nisl semper. 
